@@ -5,6 +5,10 @@
            fetch=".."
            review="review.lineageos.org" />
 
+  <remote  name="proid"
+           fetch="https://github.com/proidd/"
+           revision="proid-1.0" />
+
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
